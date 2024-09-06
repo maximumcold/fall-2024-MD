@@ -43,7 +43,7 @@ Let's load your repository in our development environment.
    4. You may need to go through a user validation process requiring a phone
       number
 
-## Regular Expression
+## Regular expressions
 
 Point your web browser to [RegexOne](regexone.com) and go through at least
 lesson 10.
