@@ -43,4 +43,4 @@ The website is https://gitpod.io.
 
 ### Version number
 
-* `plccmk --version`
+* `plcc --version`
