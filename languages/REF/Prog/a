@@ -1,0 +1,10 @@
+let
+  x = 3
+  f = proc(t, u) {
+      set u = 5 ;
+      +(t, u)
+  }
+in
+{
+  .f(x, x)
+}
