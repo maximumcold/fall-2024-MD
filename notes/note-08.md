@@ -12,6 +12,15 @@ On branch main
 ```
 ).
 
+## Play the computer
+
+Let us look how the parser handles the output below with our binary tree
+language.
+
+```
+( bar 1 ( foo 1 2 ) )
+```
+
 ## Grammar to Java class
 
 Make sure you understand how a grammar production, such as
