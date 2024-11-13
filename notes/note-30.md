@@ -2,6 +2,27 @@
 
 ## Types
 
+We have the following primitive types:
+
+* `int`
+* `bool`
+
+When we define a procedure we need to declare the types of each of the
+procedure's formal parameters and the procedure's return type.  For this purpose
+we will use the following notation:
+
+```
+[ t1, t2, ..., t3 => t ]
+```
+
+Here are some examples of type expressions:
+
+* `int`
+* `bool`
+* `[ bool, int => int ]`
+* `[ [ int => bool ], [ int, int => int ] => [ int, int => bool ] ]`
+* `[ => int ]`
+
 Every expression has a type.  The type of a variable is the type that is bound
 to the variable in the current type environment.  All variables must have a type
 binding.
