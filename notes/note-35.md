@@ -16,3 +16,14 @@ What else has first-class status in the language OBJ?
 What's are the new reserved keywords introduced with the language OBJ?
 
 What is the distinction between a ClassVal and an ObjectVal?
+
+How do you find the corresponding ClassVal associated with an ObjectVal?
+
+How do you find the fields/attributes/instance variables associated with an
+ObjectVal?
+
+How do you find the methods associated with an ObjectVal?
+
+How do you find the static fields associated with an ObjectVal?
+
+How do you find the static methods associated with an ObjectVal?
