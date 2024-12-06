@@ -11,7 +11,7 @@ This form of polymorphism is a defining characteristics of object-oriented
 programming.  It occurs when a single method is defined in different classes
 related through inheritance.  If there are multiple methods, the question then
 arises: which one should be called?  The process of selecting the method is
-called *dispatch*.  To make polymorphism work, we want the most specific 
+called *dispatch*.  To make polymorphism work, we want the most specific
 implementation of that method to be called.  This is called dynamic dispatching.
 For some language it is the default (Java, Python), in others not (C++).  Some
 languages give you a choice (C++), others do not (Java).
